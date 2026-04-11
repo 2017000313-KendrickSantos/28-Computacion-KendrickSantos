@@ -24,7 +24,7 @@ public class Cambio extends javax.swing.JFrame {
     public Cambio() {
         initComponents();
 
-        this.setTitle("Calculadora");
+        this.setTitle("Cambio");
         this.setLocationRelativeTo(null);
         Fecha.setText(FechaFormat);
         
